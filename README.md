@@ -62,7 +62,7 @@ Dibuat dengan C# (.NET Framework 4.7.2) — ringan, tanpa installer, cukup extra
 ## 📁 Struktur Project
 
 ```
-TurboToggle/
+Intel-Turbo-Controller/
 ├── README.md                       # File ini
 ├── LICENSE                         # Lisensi
 ├── build.bat                       # Script compile
