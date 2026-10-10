@@ -120,13 +120,12 @@ TurboToggle/
 
 1. **Clone repo**
    ```cmd
-   git clone https://github.com/USERNAME/TurboToggle.git
-   cd TurboToggle
+   clone reponya
    ```
 
 2. **Jalankan build.bat**
-   ```cmd
-   build.bat
+   ```
+   jalankan build.bat
    ```
 
 3. **Output**: `TurboToggle.exe` (~60 KB)
@@ -219,3 +218,6 @@ MIT License — bebas dipakai, dimodifikasi, dan didistribusikan.
 ## 🤝 Kontribusi
 
 Pull request dan issue sangat diterima. Untuk perubahan besar, buka issue dulu untuk diskusi.
+
+*AI Generated* Mohon berhati-hati, selalu periksa kembali
+*AI Generated* Please becareful, always double check
