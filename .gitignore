@@ -18,7 +18,7 @@ config.ini
 _TRASH/
 
 # Personal files (JANGAN commit ke GitHub)
-!BACKUP SOURCE/
+\!BACKUP SOURCE/
 Audio/
 Deepseek.txt
 
