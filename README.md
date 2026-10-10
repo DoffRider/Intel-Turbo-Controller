@@ -159,32 +159,6 @@ Kalau ada masalah, hapus file ini untuk reset ke default.
 
 ---
 
-## 🎨 Tips & Trik
-
-### Setting Terbaik untuk i5-12400F
-| Parameter | Nilai |
-|---|---|
-| Idle threshold | 10% |
-| Idle duration | 60-120 detik |
-| Active threshold | 30% |
-| Active duration | 5 detik |
-| Alert CPU | 85°C |
-| Alert GPU | 80°C |
-| Alert Hotspot | 95°C |
-
-### Font Tray Terbaik
-- **Segoe UI** (modern, default Windows)
-- **Bahnschrift SemiBold** (lebar, jelas)
-- **Consolas** (mono, techy)
-
-### Warna Kontras
-| Taskbar | Warna |
-|---|---|
-| Gelap | Putih, kuning, cyan, hijau neon |
-| Terang | Hitam, merah tua, biru tua |
-
----
-
 ## ⚠️ Catatan Penting
 
 - **Antivirus False Positive**: Beberapa antivirus menandai TurboToggle sebagai trojan karena akses low-level hardware. Ini **false positive** — kode tersedia lengkap untuk diverifikasi. Tambahkan folder ke exclusion jika perlu.
@@ -219,5 +193,6 @@ MIT License — bebas dipakai, dimodifikasi, dan didistribusikan.
 
 Pull request dan issue sangat diterima. Untuk perubahan besar, buka issue dulu untuk diskusi.
 
-*AI Generated* Mohon berhati-hati, selalu periksa kembali
-*AI Generated* Please becareful, always double check
+## Disclaimer
+- *AI Generated* Mohon berhati-hati, selalu periksa kembali
+- *AI Generated* Please becareful, always double check
